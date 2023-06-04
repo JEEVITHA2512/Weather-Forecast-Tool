@@ -1,4 +1,4 @@
-# Weather-Forecast-Tool
+
 
 # Weather Forecasting Tool
 ![image](https://github.com/HighnessAtharva/Techgig-Github-Copilot-Hackathon/assets/68660002/aad7460e-7f02-4aef-91b4-39f7b6189e85)
@@ -73,10 +73,6 @@ cd weathercli
 # Run all tests
 python -m pytest ../tests
 ```
-
-## Contribution
-
-This project was developed as part of the TechGig Microsoft Github Co-Pilot Hackathon. Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request or open an issue on the GitHub repository.
 
 ## License
 
